@@ -12,7 +12,7 @@ body{
     justify-content: center;
     display: flex;
     align-items: center;
-    height: 100vh;
+    margin: 2rem;
 }
 header{
     background-color: #1B83E2;
