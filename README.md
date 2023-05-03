@@ -13,6 +13,9 @@ Nessa aplicação fiz o uso de uma API que pega o valor da moeda em tempo real. 
  <br><br>
  <h3> Imagem do Conversor </h3>
  <img src="assests/conversor-de-moedas.png" alt="conversor-img" style="max-width: 100%; display: inline-block;" />
+ <br><br>
+ <h3> Link do projeto </h3>
+ <a href="https://conversor-de-moedas-devclub.netlify.app/">Projeto DevClub - Conversor de Moedas</a>
  
  
  
